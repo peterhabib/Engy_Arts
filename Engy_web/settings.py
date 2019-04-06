@@ -25,7 +25,7 @@ SECRET_KEY = 'jba^d4lrq80kn-u9ia-chtq-+jihzjrj_c*x$1_21e%k673+)_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['engyarts.herokuapp.com']
 
 
 # Application definition
